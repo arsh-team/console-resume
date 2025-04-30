@@ -35,6 +35,11 @@ contact.txt     # Social handles and contact information
 - **Animations**: Pure CSS/JS
 - **Responsive**: Mobile-first design
 
+## Demo 🔥
+
+[Demo](https://rawcdn.githack.com/arsh-team/terminal-resume/main/cv.html)
+
+
 ## Installation & Usage 🚀
 
 1. Clone repo:
